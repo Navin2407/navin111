@@ -1,0 +1,18 @@
+import pandas as pd
+import numpy as np
+
+
+data={"name":["ravi","kavi","sony","navin","mari","kani"],
+      "Age":[45,34,21,23,31,29]
+
+}
+
+df=pd.DataFrame(data)
+print(df)
+ 
+
+x=df.drop(columns="Age")
+y=df.drop(columns="name")
+
+
+
