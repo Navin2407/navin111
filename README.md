@@ -1,12 +1,12 @@
 ### processFlowDiagram
-<img src="C:\Users\navin\navin111\HandCricketPresentation\processFlowDiagram.png" alt="processFlowDiagram">
+<img src="HandCricketPresentation\processFlowDiagram.png" alt="processFlowDiagram">
 
 ### ArchitectureDiagram
-<img src="C:\Users\navin\navin111\HandCricketPresentation\ArchitectureDiagram.png" alt="ArchitectureDiagram">
+<img src="HandCricketPresentation\ArchitectureDiagram.png" alt="ArchitectureDiagram">
 
 ### Sequence_diagram
-<img src="C:\Users\navin\navin111\HandCricketPresentation\Sequence diagram.png" alt="Sequence diagram">
+<img src="HandCricketPresentation\Sequence diagram.png" alt="Sequence diagram">
 
 ### System_design
-<img src="C:\Users\navin\navin111\HandCricketPresentation\system_design.png" alt="system_design">
+<img src="HandCricketPresentation\system_design.png" alt="system_design">
 
